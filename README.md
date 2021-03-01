@@ -9,7 +9,7 @@ I'm from Brasil, living in São Paulo and currently working at B2W Digital. </p>
 
 
 <p>Here you can see some of my projects, and some of my lessons. <br /> 
-Keep learning! </p>
+Keep learning! </p> 🚀
 
 
 You also can find me in [LinkedIn](https://www.linkedin.com/in/priscilaandreani/). See you :)
