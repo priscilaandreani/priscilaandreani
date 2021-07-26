@@ -4,7 +4,7 @@
 
 ## Hey, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Priscila and I'm a digital product designer and front-end developer. <br />
-I'm from Brasil, living in São Paulo and currently working at [B2W Digital](https://ri.b2w.digital/).
+I'm from Brasil, living in São Paulo and currently working at [Americanas S.A](https://ri.lasa.com.br/).
 
 
 
