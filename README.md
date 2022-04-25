@@ -4,7 +4,7 @@
 
 ## Hey, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a digital product designer and front-end developer. <br />
-I'm from Brasil, living in São Paulo and currently working at [Grupo Boticário](https://www.grupoboticario.com.br/), I also teach at [Tech pro Bem] (https://techprobem.com.br/), a community of technology professionals who work voluntarily with NGOs and social projects, enhancing the reach of the third. sector.
+I'm from Brasil, living in São Paulo and currently working at [Grupo Boticário](https://www.grupoboticario.com.br/), I also teach at [Tech pro Bem](https://techprobem.com.br/), a community of technology professionals who work voluntarily with NGOs and social projects, enhancing the reach of the third. sector.
 
 
 
